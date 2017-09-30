@@ -4,4 +4,12 @@
     <h2><%: Title %>.</h2>
     <h3>Your application description page.</h3>
     <p>Use this area to provide additional information.</p>
+
+    <p> This is more text </p>
+    
+    <p>This is a new Paragraph </p>
+
+
 </asp:Content>
+
+
